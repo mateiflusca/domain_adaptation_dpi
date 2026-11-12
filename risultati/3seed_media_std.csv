@@ -1,0 +1,8 @@
+,acc_sintetico,acc_sintetico,acc_reale,acc_reale,f1_reale,f1_reale
+,mean,std,mean,std,mean,std
+esperimento,,,,,,
+source_only_scratch,0.994,0.005,0.528,0.113,0.422,0.182
+source_only_pretrained,1.0,0.0,0.463,0.0,0.317,0.0
+dann_pretrained,1.0,0.0,0.683,0.194,0.629,0.273
+finetune_pretrained,0.905,0.054,0.967,0.014,0.967,0.014
+oracle_pretrained,0.704,0.114,0.959,0.014,0.959,0.014
